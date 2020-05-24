@@ -206,6 +206,11 @@ body {
     margin-bottom: 115px;
   }
 
+  .partner-list {
+    width: 218px;
+    margin: 0 auto;
+  }
+
   .partner-list-item:not(:last-child) {
     margin-bottom: 28px;
   }
