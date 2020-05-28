@@ -77,7 +77,8 @@ body {
   font-size: 28px;
   font-weight: 700;
   text-transform: uppercase;
-  margin: 0 0 15px;
+  max-width: 276px;
+  margin: 0 auto 15px;
 }
 
 .title-span {
@@ -237,6 +238,7 @@ body {
   .title {
     font-size: 52px;
     margin-bottom: 40px;
+    max-width: 504px;
   }
 
   .title-description {
